@@ -5,7 +5,7 @@
 <h3 align="center">Student | Developer | Dreamer | Code enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Coding late at night">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="45%" height="auto" alt="Coding late at night">
 </p>
 
 ---
@@ -31,13 +31,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioGGH&show_icons=true&theme=radical" alt="MarioGGH GitHub stats" />
-</p>
-
----
-## 👁️ profile views
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarioGGH&title=Profile+Views&edge_flat=false&count_bg=%237A77F2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF" />
 </p>
 
 ---
