@@ -1,4 +1,7 @@
-<h1 align="center">Hey there 👋 I'm Mario Gibrain</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Mario+Gibrain;Full-stack+Dev+in+the+making;Lover+of+code+%26+caffeine+%E2%98%95" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Student | Developer | Dreamer | Code enthusiast</h3>
 
 <p align="center">
@@ -28,6 +31,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioGGH&show_icons=true&theme=radical" alt="MarioGGH GitHub stats" />
+</p>
+
+---
+## 👁️ profile views
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarioGGH&title=Profile+Views&edge_flat=false&count_bg=%237A77F2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF" />
 </p>
 
 ---
