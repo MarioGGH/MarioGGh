@@ -34,13 +34,6 @@ My goal is to apply what I learn in real projects and professional environments 
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioGGH&show_icons=true&theme=github_dark" alt="GitHub statistics" />
-</p>
-
----
 
 ## Academic & Professional Goal
 
