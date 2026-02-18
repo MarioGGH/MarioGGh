@@ -1,39 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Mario+Gibrain+Hern%C3%A1ndez;UI%2FUX+Designer+%26+Full+Stack+Developer;Building+Digital+Products+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A1F44&center=true&vCenter=true&width=800&lines=Mario+Gibrain+Hern%C3%A1ndez;UI%2FUX+Designer+%26+Full+Stack+Developer;Information+Technologies+%26+Digital+Innovation" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
-Student of Information Technologies and Digital Innovation · UI/UX Designer · Web Developer
+UI/UX Designer · Full Stack Developer · IT & Digital Innovation Student
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50%" alt="Developer at work">
-</p>
+---
+
+## Professional Profile
+
+I am a **UI/UX Designer and Full Stack Developer** currently studying **Information Technologies and Digital Innovation** at the *Universidad Tecnológica de Tulancingo*.  
+
+I specialize in designing and developing **scalable, user-centered digital products**, combining strong visual design with solid engineering practices.
+
+My approach focuses on:
+- Understanding user needs  
+- Translating requirements into intuitive interfaces  
+- Building efficient, maintainable software solutions  
+
+I am interested in opportunities where I can contribute to **product development, web platforms, and digital systems** with real-world impact.
 
 ---
 
-## About Me
+## Areas of Expertise
 
-I am a student of **Information Technologies and Digital Innovation** at the *Universidad Tecnológica de Tulancingo*, focused on the design and development of modern digital products.
-
-My profile combines **UI/UX design**, **frontend engineering**, and **backend development**, allowing me to create solutions that are not only functional, but also intuitive, scalable, and visually consistent.
-
-I am particularly interested in building web applications that solve real problems through clean architecture, thoughtful user experience, and efficient code.
-
----
-
-## Core Skills
-
-- User Interface and User Experience Design (UI/UX)  
+- UI/UX Design (Wireframing, Prototyping, Usability)  
 - Frontend Development (HTML, CSS, JavaScript)  
-- Backend Development with Python  
-- API Integration and Data Processing  
-- Responsive and Accessible Web Design  
-- Version Control and Collaboration with Git  
+- Backend Development (Python, APIs, Databases)  
+- Software Architecture & Code Organization  
+- Responsive and Accessible Design  
+- Version Control with Git and GitHub  
 
 ---
 
-## Technologies
+## Technology Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Technology stack" />
@@ -41,7 +42,7 @@ I am particularly interested in building web applications that solve real proble
 
 ---
 
-## GitHub Activity
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioGGH&show_icons=true&theme=github_dark" alt="GitHub statistics" />
@@ -49,9 +50,10 @@ I am particularly interested in building web applications that solve real proble
 
 ---
 
-## Professional Statement
+## Professional Objective
 
-I focus on building digital experiences that balance **usability, performance, and design**.  
-My goal is to grow as a full-stack developer while delivering products that are reliable, elegant, and user-centered.
+To contribute to a technology-driven organization by designing and developing **high-quality digital solutions** that enhance user experience, optimize business processes, and support long-term scalability.
+
+I aim to grow as a **software engineer and UI/UX specialist** while delivering measurable value through well-structured, production-ready systems.
 
 ---
