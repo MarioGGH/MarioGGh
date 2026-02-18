@@ -35,14 +35,6 @@ I am interested in understanding how systems work end-to-end, from the user inte
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioGGH&show_icons=true&theme=github_dark" alt="GitHub statistics" />
-</p>
-
----
-
 ## Academic & Professional Goal
 
 To continue developing my skills as a **full stack developer** by working on real projects, improving my technical foundations, and learning modern development practices.
